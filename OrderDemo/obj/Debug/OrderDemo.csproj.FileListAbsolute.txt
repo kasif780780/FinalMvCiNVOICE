@@ -1,0 +1,298 @@
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\ApplicationInsights.config
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Antlr3.Runtime.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\EntityFramework.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Newtonsoft.Json.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.Helpers.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.Mvc.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.Optimization.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.Razor.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.WebPages.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\WebGrease.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\EntityFramework.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.Helpers.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.Mvc.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.Optimization.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.Razor.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.WebPages.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Antlr3.Runtime.pdb
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Newtonsoft.Json.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csprojResolveAssemblyReference.cache
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.AI.Web.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.AI.Web.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Walid\Desktop\OrderDemo\OrderDemo\bin\Microsoft.ApplicationInsights.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\ApplicationInsights.config
+D:\Development Demo\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+D:\Development Demo\OrderDemo\OrderDemo\bin\OrderDemo.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.Process.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.IO.Pipes.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Security.AccessControl.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Security.Claims.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Threading.Thread.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+D:\Development Demo\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Development Demo\OrderDemo\OrderDemo\bin\Antlr3.Runtime.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\EntityFramework.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\EntityFramework.SqlServer.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.AI.Web.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.ApplicationInsights.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\Newtonsoft.Json.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.Helpers.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.Mvc.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.Optimization.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.Razor.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.WebPages.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.WebPages.Razor.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\WebGrease.dll
+D:\Development Demo\OrderDemo\OrderDemo\bin\Antlr3.Runtime.pdb
+D:\Development Demo\OrderDemo\OrderDemo\bin\EntityFramework.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\EntityFramework.SqlServer.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.AI.Web.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.ApplicationInsights.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\Newtonsoft.Json.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.Helpers.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.Mvc.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.Optimization.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.Razor.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.WebPages.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Development Demo\OrderDemo\OrderDemo\bin\System.Web.WebPages.Razor.xml
+D:\Development Demo\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csprojResolveAssemblyReference.cache
+D:\Development Demo\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+D:\Development Demo\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+D:\Development Demo\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\obj\Debug\OrderDemo.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\obj\Debug\OrderDemo.pdb
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\ApplicationInsights.config
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\OrderDemo.dll.config
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\OrderDemo.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\OrderDemo.pdb
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\csc.exe
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\csc.exe.config
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\csc.rsp
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\csi.exe
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\csi.exe.config
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\csi.rsp
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Console.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Net.Http.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\vbc.exe
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\vbc.exe.config
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\vbc.rsp
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Antlr3.Runtime.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\EntityFramework.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.AI.Web.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Newtonsoft.Json.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.Helpers.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.Mvc.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.Optimization.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.Razor.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.WebPages.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\WebGrease.dll
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Antlr3.Runtime.pdb
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\EntityFramework.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.AI.Web.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\Newtonsoft.Json.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.Helpers.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.Mvc.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.Razor.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.WebPages.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\bin\System.Web.Optimization.xml
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.CopyComplete
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\obj\Debug\OrderDemo.Migrations.initljhhjg.resources
+C:\Users\Kasif\Downloads\OrderDemo\OrderDemo\obj\Debug\OrderDemo.csproj.GenerateResource.cache
