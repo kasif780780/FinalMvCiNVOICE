@@ -1,0 +1,27 @@
+﻿@model List<OrderDemo.Models.OrderDetails>
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+
+    <h4>Order</h4>
+    <hr />
+
+    @foreach(var item in Model)
+    {
+    <table>
+        <tr>
+            <td>@item.ProductID</td>
+            <td>@item.Price</td>
+            <td>@item.Quantity</td>
+        </tr>
+     
+    </table>
+    }
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |*@
+    @Html.ActionLink("Back to List", "Index")
+</p>
